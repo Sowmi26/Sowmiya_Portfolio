@@ -10,5 +10,7 @@ Data Analysis Portfolio
 ![wordcloud](https://github.com/Sowmi26/Sowmiya_Portfolio/assets/89682900/26b0ea25-ead1-407a-9666-258e05243c85)
 
 ## [Project - 2: Dashboard with PowerBI](https://drive.google.com/file/d/1Kh3WDIc9GYXx_LdgLTG6oY2LPc-lHSBh/view?usp=drive_link)
+- Created a dashboard to keep track of the number of calls received and answered.
+- Keep track of agent performances.
 
   
