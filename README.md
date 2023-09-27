@@ -13,4 +13,8 @@ Data Analysis Portfolio
 - Created a dashboard to keep track of the number of calls received and answered.
 - Keep track of agent performances.
 
+![image](https://github.com/Sowmi26/Sowmiya_Portfolio/assets/89682900/e02110ee-55ce-45db-8c82-debefc37accc)
+
+
+
   
