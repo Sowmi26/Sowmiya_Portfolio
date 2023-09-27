@@ -1,7 +1,7 @@
 # Sowmiya_Portfolio
 Data Analysis Portfolio
 
-## Project - 1: Sentimental Analysis
+## [Project - 1: Sentimental Analysis](https://www.kaggle.com/code/sowmihari/sentimental-analysis/notebook)
 - Pre-processed the data for Analysis using Pandas and NumPy.
 - Natural Language Processing (NLP) is used to extract insights.
 - Created Wordcloud using WordCloud and matplotlib for visualization.
